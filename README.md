@@ -1,5 +1,5 @@
 # Travel-Template-for-SwiftUI
-A Travel template app written by SwiftUI
+A Travel template app using SwiftUI
 
 ## Installation ##
 * Git and clone <br/>
